@@ -13,7 +13,7 @@ name                     : &name "Aditya Kumar"
 description              : &description "Software Engineer | Backend Systems | Machine Learning"
 url                      : https://www.hiaditya.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "adityak2920/adityak2920.github.io"
+repository               : "adityaketc/adityak2920.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "adityak2920"
+  github           : "adityaketc"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "adityak2920"
+  linkedin         : "adityaketc"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

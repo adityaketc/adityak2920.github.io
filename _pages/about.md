@@ -21,8 +21,8 @@ redirect_from:
 <div class="section">
     <div class="links">
         <a href="mailto:adityak2920@gmail.com">Email</a>
-        <a href="https://linkedin.com/in/adityak2920">LinkedIn</a>
-        <a href="https://github.com/adityak2920">GitHub</a>
+        <a href="https://linkedin.com/in/adityaketc">LinkedIn</a>
+        <a href="https://github.com/adityaketc">GitHub</a>
     </div>
 </div>
 </div>
@@ -177,6 +177,6 @@ Software Engineer with <span class="metric">5 years</span> of experience buildin
 </div>
 
 <div class="reveal colophon">
-  <span>adityak2920 / built with jekyll</span>
+  <span>adityaketc / built with jekyll</span>
   <span>last updated · {{ site.time | date: "%b %Y" }}</span>
 </div>
