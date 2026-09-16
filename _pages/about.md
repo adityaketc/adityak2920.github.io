@@ -21,8 +21,9 @@ redirect_from:
 <div class="section">
     <div class="links">
         <a href="mailto:adityak2920@gmail.com">Email</a>
-        <a href="https://linkedin.com/in/adityaketc">LinkedIn</a>
+        <a href="https://linkedin.com/in/adityak2920">LinkedIn</a>
         <a href="https://github.com/adityaketc">GitHub</a>
+        <a href="https://x.com/adityaketc">X</a>
     </div>
 </div>
 </div>
